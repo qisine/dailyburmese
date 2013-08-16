@@ -1,10 +1,17 @@
 <div class="pagination">
+  {% assign one_base = site.baseurl %}
+  {% assign other_base = "" %}
+  {% if page.category != null %}
+    {% capture one_base %}{{ site.baseurl }}{{ page.category }}{% endcapture %}
+    {% capture other_base %}{{ site.baseurl }}{{ page.category }}{% endcapture %}
+  {% endif %}
+
   {% if paginator.previous_page %}
     <div class="previous">
       {% if paginator.previous_page == 1 %}
-        <a href="/">Previous</a>
+        <a href="{{ one_base }}">Previous</a>
       {% else %}
-        <a href="{{ paginator.previous_page_path }}">Previous</a>
+        <a href="{{ other_base }}{{ paginator.previous_page_path }}">Previous</a>
       {% endif %}
     </div>
   {% else %}
@@ -18,7 +25,7 @@
       {% if paginator.page == 1 %}
         <span class="current-page disabled">1</span>
       {% else %}
-        <a href="/">1</a>
+        <a href="{{ one_base }}">1</a>
       {% endif %}
     </li>
 
@@ -27,7 +34,7 @@
         {% if count == paginator.page %}
           <span class="current-page disabled">{{ count }}</span>
         {% else %}
-          <a href="/p{{ count }}">{{ count }}</a>
+          <a href="{{ other_base }}/p{{ count }}">{{ count }}</a>
         {% endif %}
       </li>
     {% endfor %}
@@ -35,7 +42,7 @@
 
   {% if paginator.next_page %}
     <div class="next">
-      <a href="{{ paginator.next_page_path }}">Next</a>
+      <a href="{{ other_base }}{{ paginator.next_page_path }}">Next</a>
     </div>
   {% else %}
     <div class="next disabled">
@@ -44,4 +51,3 @@
   {% endif %}
 
 </div>
-

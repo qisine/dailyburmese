@@ -3,7 +3,7 @@ module Jekyll
     safe true 
 
     def generate(site)
-      site.categories.each {|c| paginate(site, c[0], c[1]) }
+      site.categories.each {|c| paginate(site, c[0], c[1].sort_by {|p| -p.date.to_f}) }
     end
 
     def paginate(site, type, posts)
@@ -28,7 +28,8 @@ module Jekyll
       @name = 'index.html'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'default.html')
+      self.read_yaml(base, 'index.html')
+      #self.data["grouptype"] = "category"
       self.data["category"] = type
     end
   end
