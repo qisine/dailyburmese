@@ -21,20 +21,11 @@
     </div>
     <nav>
       <ul>
-      {% if page.name == "zawgyi" %}
-        <li><a href="{{ site.baseurl }}">unicode</a>
-        <li>zawgyi
-        <li><a href="{{ site.baseurl }}about">about</a>
-      {% elsif page.name == "about" %}
-        <li><a href="{{ site.baseurl }}">unicode</a>
-        <li><a href="{{ site.baseurl }}zawgyi">zawgyi</a>
-        <li>about
-      {% else %}
-        <li>unicode
+        <li><a href="{{ site.baseurl }}">all</a>
+        <li><a href="{{ site.baseurl }}unicode">unicode</a>
         <li><a href="{{ site.baseurl }}zawgyi">zawgyi</a>
         <li><a href="{{ site.baseurl }}about">about</a>
       </ul>
-      {% endif %}
     </nav>
   </header>
   {{ content }}
