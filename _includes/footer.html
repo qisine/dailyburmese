@@ -9,14 +9,14 @@
   {% if paginator.previous_page %}
     <div class="previous">
       {% if paginator.previous_page == 1 %}
-        <a href="{{ one_base }}">Previous</a>
+        <a href="{{ one_base }}">previous</a>
       {% else %}
-        <a href="{{ other_base }}{{ paginator.previous_page_path }}">Previous</a>
+        <a href="{{ other_base }}{{ paginator.previous_page_path }}">previous</a>
       {% endif %}
     </div>
   {% else %}
     <div class="previous disabled">
-      <span>Previous</span>
+      <span>previous</span>
     </div>
   {% endif %}
 
@@ -42,11 +42,11 @@
 
   {% if paginator.next_page %}
     <div class="next">
-      <a href="{{ other_base }}{{ paginator.next_page_path }}">Next</a>
+      <a href="{{ other_base }}{{ paginator.next_page_path }}">next</a>
     </div>
   {% else %}
     <div class="next disabled">
-      <span>Next</span>
+      <span>next</span>
     </div>
   {% endif %}
 

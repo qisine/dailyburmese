@@ -5,14 +5,18 @@ layout: default
 <ul class="posts">
   {% for post in paginator.posts %}
     <li class="post">
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h2>{{ post.title }}</h2>
       <div>
-        <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
-        <div class="font">{{ post.category }}</div>
+        <div class="info">
+          <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
+          <div class="font">{{ post.category }}</div>
+        </div>
         <div class="content">{{ post.content }}</div>
       </div>
     </li>
   {% endfor %}
 </ul>
 
-{% include footer.html %}
+<footer>
+  {% include footer.html %}
+</footer>
