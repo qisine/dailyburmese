@@ -7,8 +7,15 @@
 
 @font-face {
   font-family: zawgyi;
-  src: url('ZawgyiOne2008.ttf');
+  src: url('f/ZawgyiOne2008.ttf');
   font-weight:normal;
   font-weight:normal;
 }
 
+.mm3 {
+  font-family: "mm3" !important;
+}
+
+.zawgyi {
+  font-family: "zawgyi" !important;
+}
