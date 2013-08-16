@@ -70,6 +70,8 @@ nav li {
 
 .my {
   margin-bottom: 1em;
+  background-color: #E3F8FD;
+  padding: .5em;
 }
 
 footer {
@@ -87,4 +89,8 @@ footer {
 .about {
   background-color: #FFF;
   padding: 2em;
+}
+
+.hide-this {
+  display: none;
 }
