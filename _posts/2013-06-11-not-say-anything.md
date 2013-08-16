@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Not Say Anything
+category: unicode
 ---
 
 <p class="my"><span class="mm3">မပြောဘူး။</span></p>

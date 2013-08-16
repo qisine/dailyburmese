@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Not Say Anything
+category: zawgyi
 ---
 
 <p class="my"><span class="zawgyi">မေျပာဘူး။</span></p>

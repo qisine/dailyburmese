@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Soon To Be Parents
+category: zawgyi
 ---
 
 <p class="my"><span class="zawgyi">မေျပာဘူး။</span></p>
