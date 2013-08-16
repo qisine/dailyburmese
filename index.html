@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<ul>
+  {% for post in paginator.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {{ post.content }}
+  {% endfor %}
+</ul>
+
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <div class="previous">
+      {% if paginator.previous_page == 1 %}
+        <a href="/">Previous</a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path }}">Previous</a>
+      {% endif %}
+    </div>
+  {% else %}
+    <div class="previous disabled">
+      <span>Previous</span>
+    </div>
+  {% endif %}
+
+  <ul class="pages">
+    <li class="page">
+      {% if paginator.page == 1 %}
+        <span class="current-page disabled">1</span>
+      {% else %}
+        <a href="/">1</a>
+      {% endif %}
+    </li>
+
+    {% for count in (2..paginator.total_pages) %}
+      <li class="page">
+        {% if count == paginator.page %}
+          <span class="current-page disabled">{{ count }}</span>
+        {% else %}
+          <a href="/p{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if paginator.next_page %}
+    <div class="next">
+      <a href="{{ paginator.next_page_path }}">Next</a>
+    </div>
+  {% else %}
+    <div class="next disabled">
+      <span>Next</span>
+    </div>
+  {% endif %}
+
+</div>

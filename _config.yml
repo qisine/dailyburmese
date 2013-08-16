@@ -1,0 +1,8 @@
+relative_permalinks: true
+
+paginate: 5
+paginate_path: "p:num"
+
+host:     0.0.0.0
+port:     12129
+baseurl:  /
