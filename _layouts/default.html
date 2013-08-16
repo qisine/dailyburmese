@@ -14,6 +14,29 @@
   <title>Daily Burmese by Nance Cunningham</title>
 </head>
 <body>
+  <header>
+    <div id="logo">
+      <div id="site_name">Daily Burmese</div>
+      <div id="credential">By Nance Cunningham</div>
+    </div>
+    <nav>
+      <ul>
+      {% if page.name == "zawgyi" %}
+        <li><a href="{{ site.baseurl }}">unicode</a>
+        <li>zawgyi
+        <li><a href="{{ site.baseurl }}about">about</a>
+      {% elsif page.name == "about" %}
+        <li><a href="{{ site.baseurl }}">unicode</a>
+        <li><a href="{{ site.baseurl }}zawgyi">zawgyi</a>
+        <li>about
+      {% else %}
+        <li>unicode
+        <li><a href="{{ site.baseurl }}zawgyi">zawgyi</a>
+        <li><a href="{{ site.baseurl }}about">about</a>
+      </ul>
+      {% endif %}
+    </nav>
+  </header>
   {{ content }}
 </body>
 </html>
