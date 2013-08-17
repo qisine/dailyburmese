@@ -1,9 +1,9 @@
 <div class="pagination">
-  {% assign one_base = site.baseurl %}
-  {% assign other_base = "" %}
+  {% assign one_base = site.baseurl + "archives" %}
+  {% assign other_base = site.baseurl + "archives" %}
   {% if page.category != null %}
-    {% capture one_base %}{{ site.baseurl }}{{ page.category }}{% endcapture %}
-    {% capture other_base %}{{ site.baseurl }}{{ page.category }}{% endcapture %}
+    {% capture one_base %}{{ site.baseurl }}{{ 'archives/' }}{{ page.category }}{% endcapture %}
+    {% capture other_base %}{{ site.baseurl }}{{ 'archives/' }}{{ page.category }}{% endcapture %}
   {% endif %}
 
   {% if paginator.previous_page %}

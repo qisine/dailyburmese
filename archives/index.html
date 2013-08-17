@@ -3,8 +3,7 @@ layout: default
 ---
 
 <ul class="posts">
-  {% assign posts = site.posts | top_n_posts %} 
-  {% for post in posts %}
+  {% for post in paginator.posts %}
     <li class="post">
       <h2>{{ post.title }}</h2>
       <div>
@@ -17,3 +16,7 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
+<footer>
+  {% include footer.html %}
+</footer>

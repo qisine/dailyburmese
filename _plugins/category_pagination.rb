@@ -10,7 +10,7 @@ module Jekyll
       count = Pager.calculate_pages(posts, site.config['paginate'].to_i)
       (1..count).each do |page_num|
         pager = Pager.new(site, page_num, posts, count)
-        path = "/#{type}"
+        path = "/archives/#{type}"
         path += "/p#{page_num}" if page_num > 1
 
         cat_page = CategoryPage.new(site, site.source, path, type)
@@ -28,8 +28,7 @@ module Jekyll
       @name = 'index.html'
 
       self.process(@name)
-      self.read_yaml(base, 'index.html')
-      #self.data["grouptype"] = "category"
+      self.read_yaml(base, 'archives/index.html')
       self.data["category"] = type
     end
   end
