@@ -1,0 +1,11 @@
+footer {
+  padding: .5em;
+}
+
+.pagination > div, .pagination ul, .pagination ul li {
+  display: inline-block;
+}
+
+.pagination > div {
+  padding: .5em 0;
+}
