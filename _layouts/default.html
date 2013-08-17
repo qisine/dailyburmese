@@ -1,3 +1,15 @@
+---
+navigation:
+ - text: latest
+   url: /
+ - text: unicode all
+   url: /archives/unicode/
+ - text: zawgyi all  
+   url: /archives/zawgyi/
+ - text: about
+   url: /about/
+---
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,8 +20,6 @@
   <meta name="author" content="Nance Cunningham" /> 
   <meta name="keywords" content="daily burmese, burmese phrases, burmese sample sentences, burmese lessons, myanmar phrases, burmese english translations" /> 
 
-  <link href="{{ site.baseurl }}a/c/reset.css" rel="stylesheet" type="text/css">
-  <link href="{{ site.baseurl }}a/c/fonts.css" rel="stylesheet" type="text/css">
   <link href="{{ site.baseurl }}a/c/app.css" rel="stylesheet" type="text/css">
 
   <script src="{{ site.baseurl }}a/j/jquery-1.10.2.min.js" type="text/javascript"></script>
@@ -25,10 +35,12 @@
     </div>
     <nav>
       <ul>
-        <li><a href="{{ site.baseurl }}">latest</a>
-        <li><a href="{{ site.baseurl }}archives/unicode">unicode all</a>
-        <li><a href="{{ site.baseurl }}archives/zawgyi">zawgyi all</a>
-        <li><a href="{{ site.baseurl }}about">about</a>
+      {% for entry in page.navigation %}
+        {% assign active = entry.url | compare_urls: page.url %}
+        <li {% if active == true %} class='active' {% endif %}>
+          <a href="{{ entry.url }}">{{ entry.text }}</a>
+        </li>
+      {% endfor %}
       </ul>
     </nav>
   </header>

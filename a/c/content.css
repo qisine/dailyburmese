@@ -33,6 +33,10 @@ nav li {
   border-bottom:none;
 }
 
+.active {
+  background-color: #E3F8FD;
+}
+
 .wrapper {
   clear: both; 
   border: 6px solid #87CDDE;
