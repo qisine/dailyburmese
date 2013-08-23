@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require 'date'
 
 HEADER = <<-TXT
 ---
@@ -17,13 +18,13 @@ def fmt(txt, format=P)
   sprintf(format, txt)
 end
 
-def add_random_days(date)
-  date + Random.rand(1..5) * 60 * 60 * 24
+def deduct_random_days(date)
+  date - Random.rand(1..20) 
 end
 
-all = IO.read("all.txt").split(/^=+$/)
+all = IO.read("all.txt").split(/^=+$\n+/)
 
-dt = Time.now
+dt = Date.new(2013, 06, 10)
 all.each do |post|
   hide = false
   pars = post.split(/\n+/)
@@ -43,10 +44,10 @@ all.each do |post|
     par_with_p.gsub(/(?:\s*[\u1000-\u109F]+\s*[\u1000-\u109F]+\s*)+/) { |b| fmt(b, FONT) }
   end.join("\n")
 
-  File.open("#{dt.strftime("%Y_%m_%d")}_#{title.gsub(/\s/, "_").downcase}.md", "w") do |f|
+  File.open("new/#{dt.strftime("%Y_%m_%d")}_#{title.gsub(/\s/, "_").downcase}.md", "w") do |f|
     f.puts formatted_post
   end
 
-  dt = add_random_days(dt)
-  exit
+  dt = deduct_random_days(dt)
+  #exit
 end
