@@ -7,31 +7,31 @@ category: zawgyi
 <p class="my"><span class="zawgyi">မေျပာဘူး။</span></p>
 <p class="en hide-this">I don’t speak.</p>
 
-What is a common question to ask soon-to-be parents? Put together the words below to get one fictional father’s response, undoubtedly often echoed.
+What is a common question to ask soon-to-be parents? Put together the words below to get one fictional father’s response, undoubtedly often echoed.    
 
-##Verbs
+####Verbs
 <p class="zawgyi">
 ေမြး<br>
 ေတာ္<br>
 လိုခ်င္<br>
 လိုခ်င္
-</p>
+</p>    
 
-##Nouns
+####Nouns
 <p class="zawgyi">
 လူေလး<br>
 သမီးေလး<br>
 သားေလး
-</p>
+</p>    
 
-##Particles
+####Particles
 <p class="zawgyi">
 ရင္<br>
 ဆိုေတာ့<br>
 လား<br>
 လား<br>
 ပါၿပီကြာ
-</p>
+</p>    
 
-answer below:    
-<span class="mm3 hide-this">သားေလးလိုခ်င္လား သမီးေလးလိုခ်င္လားဆိုေတာ့ လူေလးေမြးရင္ေတာ္ပါၿပီကြာ။</span>
+<p class="my">answer below:</p>
+<p class="zawgyi hide-this">သားေလးလိုခ်င္လား သမီးေလးလိုခ်င္လားဆိုေတာ့ လူေလးေမြးရင္ေတာ္ပါၿပီကြာ။</p>
