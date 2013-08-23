@@ -8,7 +8,7 @@ module UtilityFilters
 
   def compare_urls(current, other)
     c, o = [current, other].map {|u| u.gsub("index.html", "").split("/").reject {|e| e.empty? }}
-    puts "#{c.include?("unicode") && o.include?("unicode")}: [#{c}, #{o}]"
+    #puts "#{c.include?("unicode") && o.include?("unicode")}: [#{c}, #{o}]"
     return (c[0].nil? && o[0].nil?) ||
            (c.include?("unicode") && o.include?("unicode")) ||
            (c.include?("zawgyi") && o.include?("zawgyi")) ||

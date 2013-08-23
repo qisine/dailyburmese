@@ -44,7 +44,7 @@ all.each do |post|
     par_with_p.gsub(/(?:\s*[\u1000-\u109F]+\s*[\u1000-\u109F]+\s*)+/) { |b| fmt(b, FONT) }
   end.join("\n")
 
-  File.open("new/#{dt.strftime("%Y_%m_%d")}_#{title.gsub(/\s/, "_").downcase}.md", "w") do |f|
+  File.open("new/#{dt.strftime("%Y-%m-%d")}-#{title.gsub(/\s/, "-").downcase}.md", "w") do |f|
     f.puts formatted_post
   end
 
