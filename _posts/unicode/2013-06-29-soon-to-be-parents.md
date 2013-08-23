@@ -33,5 +33,5 @@ What is a common question to ask soon-to-be parents? Put together the words belo
 ပါပြီကွာ
 </p>    
 
-<p>answer below:    
-<span class="mm3 hide-this">သားလေးလိုချင်လား သမီးလေးလိုချင်လားဆိုတော့ လူလေးမွေးရင်တော်ပါပြီကွာ။</span></p>
+<p class="my">answer below:</p>
+<p class="mm3 hide-this">သားလေးလိုချင်လား သမီးလေးလိုချင်လားဆိုတော့ လူလေးမွေးရင်တော်ပါပြီကွာ။</p>

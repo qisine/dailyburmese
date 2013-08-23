@@ -8,9 +8,8 @@ category: unicode
 
 <p><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့</span> with foreigners</p>
 
-<p><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်</span>-</p>
+<p class='my'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်</span>-</p>
 <p class='hide-this'>work with foreigners</p>
-
 
 <p class='my'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten</p>

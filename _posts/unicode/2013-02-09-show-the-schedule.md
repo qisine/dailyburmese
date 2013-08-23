@@ -30,6 +30,6 @@ category: unicode
 <p>Not hard enough for you? The original sentence was a bit longer:<br>
 <span class='mm3'>ဘယ်စာရေးဆရာတွေ...ဘယ်နေ့ ဘယ်အချိန် ဘယ်နေရာမှာ ဘာအကြောင်း ဟောပြောဆွေးနွေးမယ် ဆိုတဲ့...ဘကုန်းငါးလုံး အစီအစဉ်တွေကိုလဲ ကြိုတင်ဖြန့်ဝေထားတဲ့ လက်ကမ်းစာအုပ်ကလေးတွေထဲမှာ အပြည့်အစုံ ဖော်ပြထားတဲ့အပြင်</span>…website<span class='mm3'>မှာနဲ့ နေ့စဉ်ထုတ်သတင်းစာတွေထဲမှာလဲ တွေ့နိုင်ပါတယ်။</span></p>
 <p>Do you get what he means by <span class='mm3'>ဘကုန်း ငါးလုံး</span>? If not, try to remember what are <span class='mm3'>ကကြီးနှစ်လုံးဆင့်။</span> You will need them to spell ‘taxi’, ‘university’ ‘sidecar’.</p>
-<p class='my mm3'>တက္ကစီ<br>
+<p class='mm3'>တက္ကစီ<br>
 တက္ကသိုလ်<br>
 ဆိုက္ကား</p>
