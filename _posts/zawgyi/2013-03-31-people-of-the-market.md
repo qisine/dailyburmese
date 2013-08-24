@@ -4,7 +4,7 @@ title: People Of The Market
 category: zawgyi
 ---
 
-<p>First, remember how you say ‘subject, topic’ and also ‘about’? <span class='zawgyi'>အေၾကာင္း</span> In the sentence below, <span class='mm3'>ေၾကာင္း</span> is a particle used to mark something that is being reported, much like <span class='mm3'>လို႔</span> is used to mark something said. It is very common in news.</p>
+<p>First, remember how you say ‘subject, topic’ and also ‘about’? <span class='zawgyi'>အေၾကာင္း</span> In the sentence below, <span class='zawgyi'>ေၾကာင္း</span> is a particle used to mark something that is being reported, much like <span class='zawgyi'>လို႔</span> is used to mark something said. It is very common in news.</p>
 
 <p><span class='zawgyi'>ေဈးသူေဈးသားေတြက ေျပာတယ္။</span> The people of the market say so.</p>
 

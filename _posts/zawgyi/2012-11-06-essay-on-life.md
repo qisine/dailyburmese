@@ -6,10 +6,10 @@ category: zawgyi
 
 <p>From an essay on examining one’s life, by <span class='zawgyi'>ေဇယ်</span>. Fill in the job from the verb. A few of them might be hard to get, so I put the English jobs below to help you with any blanks. If that isn’t enough, you can look even farther down for the jobs in Burmese. Finally you will find the original paragraph at the bottom of the page.</p>
 
-<p>___________ <span class='zawgyi'>က စာေရးသည္။ </span> ___________ <span class='mm3'>က လယ္လုပ္သည္။</span></p>
-<p>___________ <span class='zawgyi'>က တရားက်င့္သည္။ </span>_____________ <span class='mm3'>က ေတြးေတာသည္။</span></p>
-<p>_____________ <span class='zawgyi'>က မင္းျပဳသည္။ </span> ___________ <span class='mm3'>က ငါးမၽွားသည္။</span></p>
-<p>___________ <span class='zawgyi'>က ခိုးသည္။ </span> _____________ <span class='mm3'>က ႏႈိက္သည္။</span></p>
+<p>___________ <span class='zawgyi'>က စာေရးသည္။ </span> ___________ <span class='zawgyi'>က လယ္လုပ္သည္။</span></p>
+<p>___________ <span class='zawgyi'>က တရားက်င့္သည္။ </span>_____________ <span class='zawgyi'>က ေတြးေတာသည္။</span></p>
+<p>_____________ <span class='zawgyi'>က မင္းျပဳသည္။ </span> ___________ <span class='zawgyi'>က ငါးမၽွားသည္။</span></p>
+<p>___________ <span class='zawgyi'>က ခိုးသည္။ </span> _____________ <span class='zawgyi'>က ႏႈိက္သည္။</span></p>
 
 <p>fisherman (rice) farmer sovereign king writer pickpocket monk scholar</p>
 
