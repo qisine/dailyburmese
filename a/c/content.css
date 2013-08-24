@@ -1,9 +1,3 @@
-body {
-  padding: 2em 1em;
-  font-family: Helvetica, sans-serif;
-  color: #11333C;
-}
-
 header, .wrapper {
   width: 80%;
   margin-left: auto;
@@ -71,14 +65,3 @@ nav li {
   margin-bottom: 1em;
   font-size: 1.4em;
 }
-
-.hide-trigger {
-  margin-bottom: 1em;
-  background-color: #E3F8FD;
-  padding: .5em;
-}
-
-.hide-this {
-  display: none;
-}
-

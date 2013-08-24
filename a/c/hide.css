@@ -1,0 +1,15 @@
+.hide-trigger {
+  margin-bottom: 1em;
+  background-color: #E3F8FD;
+  padding: .5em;
+}
+
+.hide-trigger > a:first-child {
+  display: inline-block;
+  margin-right: .5em;
+  text-decoration: none;
+}
+
+.hide-this {
+  display: none;
+}
