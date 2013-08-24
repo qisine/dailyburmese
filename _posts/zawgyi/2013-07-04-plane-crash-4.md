@@ -4,7 +4,7 @@ title: Plane Crash 4
 category: zawgyi
 ---
 
-<p class="my"><span class="zawgyi">ခရီးသည္ ထိခိုက္မႈ မရွိပါဘူး။ ေျပးလမ္းေဘးကို ေခ်ာ္ထြက္သြားတဲ့အတြက္ ၿခံစည္း႐ိုးနဲ႔တိုက္မိၿပီး ေလကာဥ္ပန္ကာေတြပ်က္စီးသြားတယ္”ဟု ရန္ကုန္တိုင္းမ္ ေန႔စဥ္ သတင္းစာသို႔ ေျပာသည္။</span></p>
+<p class="hide-trigger"><span class="zawgyi">ခရီးသည္ ထိခိုက္မႈ မရွိပါဘူး။ ေျပးလမ္းေဘးကို ေခ်ာ္ထြက္သြားတဲ့အတြက္ ၿခံစည္း႐ိုးနဲ႔တိုက္မိၿပီး ေလကာဥ္ပန္ကာေတြပ်က္စီးသြားတယ္”ဟု ရန္ကုန္တိုင္းမ္ ေန႔စဥ္ သတင္းစာသို႔ ေျပာသည္။</span></p>
 
 <p class="hide-this">No passengers were affected. As the plain went disorder out the Runner Trek hit to hedge and damaged its fans.</p>
 

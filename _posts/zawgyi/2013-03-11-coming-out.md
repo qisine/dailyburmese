@@ -9,27 +9,27 @@ category: zawgyi
 
 <p>[It]’s come out. <span class='zawgyi'>ထြက္ေနတယ္။</span></p>
 
-<p class='my'><span class='zawgyi'>ေကာလာဟလ ထြက္ေနတယ္။</span></p>
+<p class='hide-trigger'><span class='zawgyi'>ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>A rumour has come out.</p>
 
-<p class='my'><span class='zawgyi'>ေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
+<p class='hide-trigger'><span class='zawgyi'>ေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>There’s a rumour a that [it] will be given.</p>
 
-<p class='my'><span class='zawgyi'>ဆုေငြ ေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
+<p class='hide-trigger'><span class='zawgyi'>ဆုေငြ ေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>There’s a rumour that there will be a reward.</p>
 
-<p class='my'><span class='zawgyi'>ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
+<p class='hide-trigger'><span class='zawgyi'>ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>There’s a rumour that there will be a reward in the millions. (use (number)<span class='zawgyi'>နဲ႔ခ်ီၿပီး</span>)</p>
 
-<p class='my'><span class='zawgyi'>ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
+<p class='hide-trigger'><span class='zawgyi'>ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>There’s a rumour that the one who can capture [him] will be get a reward in the millions.</p>
 
 <p><span class='zawgyi'>ဓါးျပ ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။ </span>/<span class='mm3'>ဒမ်</span>/</p>
 <p class='hide-this'>There’s a rumour that whoever captures the bandit will get a reward in the millions.</p>
 
-<p class='my'><span class='zawgyi'>ဓါးျပေခါင္းေဆာင္ ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
+<p class='hide-trigger'><span class='zawgyi'>ဓါးျပေခါင္းေဆာင္ ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>A rumour says that whoever captures the bandit leader will get a reward in the millions.</p>
 
 <p>Let’s try out another rumour, before you start making your own:</p>
-<p class='my'>There’s a rumour [he] is injured.</p>
+<p class='hide-trigger'>There’s a rumour [he] is injured.</p>
 <p class='hide-this'><span class='zawgyi'>ဒဏ္ရာရတယ္လို႔</span>…</p>

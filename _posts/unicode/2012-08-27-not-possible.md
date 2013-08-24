@@ -8,11 +8,11 @@ category: unicode
 
 <p>That is not possible.<span class='mm3'> မရပါဘူး။</span></p>
 
-<p class='my'><span class='mm3'>ပြောလို့မရပါဘူး။</span></p>
+<p class='hide-trigger'><span class='mm3'>ပြောလို့မရပါဘူး။</span></p>
 <p class='hide-this'>You can’t say it is true.</p>
 
-<p class='my'><span class='mm3'>မှန်တယ်လို့ ပြောလို့မရဘူး။</span></p>
+<p class='hide-trigger'><span class='mm3'>မှန်တယ်လို့ ပြောလို့မရဘူး။</span></p>
 <p class='hide-this'>You cannot say it is entirely true.</p>
 
-<p class='my'><span class='mm3'>လုံးဝမှန်တယ်လို့တော့ ပြောလို့မရပါဘူး။</span></p>
+<p class='hide-trigger'><span class='mm3'>လုံးဝမှန်တယ်လို့တော့ ပြောလို့မရပါဘူး။</span></p>
 <p class='hide-this'>I would say that this is not entirely true.</p>

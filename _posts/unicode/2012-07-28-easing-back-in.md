@@ -8,15 +8,15 @@ category: unicode
 
 <p>[He’ll] get [it].<span class='mm3'> ရမည်။</span></p>
 
-<p class='my'><span class='mm3'>လွှမ်းရမည်။</span></p>
+<p class='hide-trigger'><span class='mm3'>လွှမ်းရမည်။</span></p>
 <p class='hide-this'>It will overwhelm.</p>
 
-<p class='my'><span class='mm3'>ကမ္ဘာကို လွှမ်းရမည်။</span></p>
+<p class='hide-trigger'><span class='mm3'>ကမ္ဘာကို လွှမ်းရမည်။</span></p>
 <p class='hide-this'>It will overwhelm the world.</p>
 
-<p class='my'><span class='mm3'>အားကစား ကမ္ဘာကို လွှမ်းရမည်။</span></p>
+<p class='hide-trigger'><span class='mm3'>အားကစား ကမ္ဘာကို လွှမ်းရမည်။</span></p>
 <p class='hide-this'>Sports will overwhelm the world.</p>
 
-<p class='my'><span class='mm3'>မြန်မာ့အားကစား ကမ္ဘာကို လွှမ်းရမည်။</span></p>
+<p class='hide-trigger'><span class='mm3'>မြန်မာ့အားကစား ကမ္ဘာကို လွှမ်းရမည်။</span></p>
 <p class='hide-this'>Myanmar sports will overwhelm the world!</p>
 

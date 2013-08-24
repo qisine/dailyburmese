@@ -4,7 +4,7 @@ title: Soon To Be Parents
 category: zawgyi
 ---
 
-<p class="my"><span class="zawgyi">မေျပာဘူး။</span></p>
+<p class="hide-trigger"><span class="zawgyi">မေျပာဘူး။</span></p>
 <p class="en hide-this">I don’t speak.</p>
 
 What is a common question to ask soon-to-be parents? Put together the words below to get one fictional father’s response, undoubtedly often echoed.    
@@ -33,5 +33,5 @@ What is a common question to ask soon-to-be parents? Put together the words belo
 ပါၿပီကြာ
 </p>    
 
-<p class="my">answer below:</p>
+<p class="hide-trigger">answer below:</p>
 <p class="zawgyi hide-this">သားေလးလိုခ်င္လား သမီးေလးလိုခ်င္လားဆိုေတာ့ လူေလးေမြးရင္ေတာ္ပါၿပီကြာ။</p>

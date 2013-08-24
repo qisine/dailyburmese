@@ -4,7 +4,7 @@ title: Plane Crash 4
 category: unicode
 ---
 
-<p class="my"><span class="mm3">ခရီးသည် ထိခိုက်မှု မရှိပါဘူး။ ပြေးလမ်းဘေးကို ချော်ထွက်သွားတဲ့အတွက် ခြံစည်းရိုးနဲ့တိုက်မိပြီး လေကာဉ်ပန်ကာတွေပျက်စီးသွားတယ်”ဟု ရန်ကုန်တိုင်းမ် နေ့စဉ် သတင်းစာသို့ ပြောသည်။</span></p>
+<p class="hide-trigger"><span class="mm3">ခရီးသည် ထိခိုက်မှု မရှိပါဘူး။ ပြေးလမ်းဘေးကို ချော်ထွက်သွားတဲ့အတွက် ခြံစည်းရိုးနဲ့တိုက်မိပြီး လေကာဉ်ပန်ကာတွေပျက်စီးသွားတယ်”ဟု ရန်ကုန်တိုင်းမ် နေ့စဉ် သတင်းစာသို့ ပြောသည်။</span></p>
 
 <p class="hide-this">No passengers were affected. As the plain went disorder out the Runner Trek hit to hedge and damaged its fans.</p>
 
