@@ -2,20 +2,20 @@
   font-family: mm3;
   src: url('f/mm3_20110816.ttf');
   font-weight:normal;
-  font-weight:normal;
 }
 
 @font-face {
   font-family: zawgyi;
   src: url('f/ZawgyiOne2008.ttf');
   font-weight:normal;
-  font-weight:normal;
 }
 
 .mm3 {
   font-family: "mm3" !important;
+  line-height: 1.4;
 }
 
 .zawgyi {
   font-family: "zawgyi" !important;
+  line-height: 1.4;
 }
