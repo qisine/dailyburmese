@@ -6,13 +6,13 @@ category: zawgyi
 
 <p>nightmare Thu 13 September 2012</p>
 <p>[I] woke up.<span class='zawgyi'> ႏိုးတယ္။</span></p>
-<p class='hide-trigger'><span class='zawgyi'>အိပ္ရာက ႏိုးတယ္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>အိပ္ရာက ႏိုးတယ္။</span></p>
 <p class='hide-this'>I woke up in bed.</p>
 
-<p class='hide-trigger'><span class='zawgyi'>အိပ္မက္မက္ၿပီး အိပ္ရာက ႏိုးတယ္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>အိပ္မက္မက္ၿပီး အိပ္ရာက ႏိုးတယ္။</span></p>
 <p class='hide-this'>I had a dream and woke up in bed.</p>
 
-<p class='hide-trigger'><span class='zawgyi'>အိပ္မက္ဆိုးမက္ၿပီး အိပ္ရာက ႏိုးတယ္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>အိပ္မက္ဆိုးမက္ၿပီး အိပ္ရာက ႏိုးတယ္။</span></p>
 <p class='hide-this'>I had a nightmare (dream + “bad”) and woke up in bed.</p>
 
 <p>Too short for you? Here's the original context:</p>

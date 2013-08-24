@@ -14,6 +14,6 @@ category: zawgyi
 <p>fisherman (rice) farmer sovereign king writer pickpocket monk scholar</p>
 
 <p>I think you can figure out the remaining one. Think of a different word than <span class='zawgyi'>မင္း</span> for ‘king’, and then think if there is something you can add before it.</p>
-<p class='hide-trigger'><span class='zawgyi'>တံငါ ဘုန္းႀကီး ပညာရွိ စာေရးဆရာ ရွင္ဘုရင္</span></p>
-<p class='hide-trigger'><span class='zawgyi'>ခါးပိုက္ႏႈိက လယ္သမား သူခိုး</span></p>
-<p class='hide-trigger'><span class='zawgyi'>စာေရးဆရာက စာေရးသည္။ လယ္သမားက လယ္လုပ္သည္။ ဘုန္းႀကီးက တရားက်င့္သည္။ ပညာရွိက ေတြးေတာသည္။ ရွင္ဘုရင္က မင္းျပဳသည္။ တံငါက ငါးမၽွားသည္။ သူခိုးက ခိုးသည္။ ခါးပိုက္ႏႈိက္က ႏႈိက္သည္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>တံငါ ဘုန္းႀကီး ပညာရွိ စာေရးဆရာ ရွင္ဘုရင္</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ခါးပိုက္ႏႈိက လယ္သမား သူခိုး</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>စာေရးဆရာက စာေရးသည္။ လယ္သမားက လယ္လုပ္သည္။ ဘုန္းႀကီးက တရားက်င့္သည္။ ပညာရွိက ေတြးေတာသည္။ ရွင္ဘုရင္က မင္းျပဳသည္။ တံငါက ငါးမၽွားသည္။ သူခိုးက ခိုးသည္။ ခါးပိုက္ႏႈိက္က ႏႈိက္သည္။</span></p>

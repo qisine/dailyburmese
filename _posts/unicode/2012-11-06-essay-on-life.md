@@ -14,6 +14,6 @@ category: unicode
 <p>fisherman (rice) farmer sovereign king writer pickpocket monk scholar</p>
 
 <p>I think you can figure out the remaining one. Think of a different word than <span class='mm3'>မင်း</span> for ‘king’, and then think if there is something you can add before it.</p>
-<p class='hide-trigger'><span class='mm3'>တံငါ ဘုန်းကြီး ပညာရှိ စာရေးဆရာ ရှင်ဘုရင်</span></p>
-<p class='hide-trigger'><span class='mm3'>ခါးပိုက်နှိုက လယ်သမား သူခိုး</span></p>
-<p class='hide-trigger'><span class='mm3'>စာရေးဆရာက စာရေးသည်။ လယ်သမားက လယ်လုပ်သည်။ ဘုန်းကြီးက တရားကျင့်သည်။ ပညာရှိက တွေးတောသည်။ ရှင်ဘုရင်က မင်းပြုသည်။ တံငါက ငါးမျှားသည်။ သူခိုးက ခိုးသည်။ ခါးပိုက်နှိုက်က နှိုက်သည်။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>တံငါ ဘုန်းကြီး ပညာရှိ စာရေးဆရာ ရှင်ဘုရင်</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>ခါးပိုက်နှိုက လယ်သမား သူခိုး</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>စာရေးဆရာက စာရေးသည်။ လယ်သမားက လယ်လုပ်သည်။ ဘုန်းကြီးက တရားကျင့်သည်။ ပညာရှိက တွေးတောသည်။ ရှင်ဘုရင်က မင်းပြုသည်။ တံငါက ငါးမျှားသည်။ သူခိုးက ခိုးသည်။ ခါးပိုက်နှိုက်က နှိုက်သည်။</span></p>

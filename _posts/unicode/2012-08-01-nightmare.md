@@ -6,13 +6,13 @@ category: unicode
 
 <p>nightmare Thu 13 September 2012</p>
 <p>[I] woke up.<span class='mm3'> နိုးတယ်။</span></p>
-<p class='hide-trigger'><span class='mm3'>အိပ်ရာက နိုးတယ်။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>အိပ်ရာက နိုးတယ်။</span></p>
 <p class='hide-this'>I woke up in bed.</p>
 
-<p class='hide-trigger'><span class='mm3'>အိပ်မက်မက်ပြီး အိပ်ရာက နိုးတယ်။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>အိပ်မက်မက်ပြီး အိပ်ရာက နိုးတယ်။</span></p>
 <p class='hide-this'>I had a dream and woke up in bed.</p>
 
-<p class='hide-trigger'><span class='mm3'>အိပ်မက်ဆိုးမက်ပြီး အိပ်ရာက နိုးတယ်။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>အိပ်မက်ဆိုးမက်ပြီး အိပ်ရာက နိုးတယ်။</span></p>
 <p class='hide-this'>I had a nightmare (dream + “bad”) and woke up in bed.</p>
 
 <p>Too short for you? Here's the original context:</p>

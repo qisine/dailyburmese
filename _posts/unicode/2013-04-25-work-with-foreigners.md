@@ -8,19 +8,19 @@ category: unicode
 
 <p><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့</span> with foreigners</p>
 
-<p class='hide-trigger'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်</span>-</p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်</span>-</p>
 <p class='hide-this'>work with foreigners</p>
 
-<p class='hide-trigger'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten</p>
 
-<p class='hide-trigger'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ ၈ ယောက်လောက်က</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ ၈ ယောက်လောက်က</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten, about eight</p>
 
-<p class='hide-trigger'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ ၈ ယောက်လောက်က သူတို့မှ သိတယ်၊ သူတို့မှ တတ်တယ်။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ ၈ ယောက်လောက်က သူတို့မှ သိတယ်၊ သူတို့မှ တတ်တယ်။</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten, about eight [think] only they know</p>
 
-<p class='hide-trigger'><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ ၈ ယောက်လောက်က သူတို့မှ သိတယ်၊ သူတို့မှ တတ်တယ်။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='mm3'>နိုင်ငံခြားသားတွေနဲ့ အလုပ်လုပ်တဲ့အခါမှာ ၁၀ ယောက်မှာ ၈ ယောက်လောက်က သူတို့မှ သိတယ်၊ သူတို့မှ တတ်တယ်။</span></p>
 <p class='hide-this'>Eight out of ten foreigners think only they know, only they can do [the work].</p>
 
 <p>From a complaint by a long-time NGO worker.</p>

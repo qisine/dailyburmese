@@ -8,15 +8,15 @@ category: zawgyi
 
 <p>[He’ll] get [it].<span class='zawgyi'> ရမည္။</span></p>
 
-<p class='hide-trigger'><span class='zawgyi'>လႊမ္းရမည္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>လႊမ္းရမည္။</span></p>
 <p class='hide-this'>It will overwhelm.</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ကမၻာကို လႊမ္းရမည္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ကမၻာကို လႊမ္းရမည္။</span></p>
 <p class='hide-this'>It will overwhelm the world.</p>
 
-<p class='hide-trigger'><span class='zawgyi'>အားကစား ကမၻာကို လႊမ္းရမည္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>အားကစား ကမၻာကို လႊမ္းရမည္။</span></p>
 <p class='hide-this'>Sports will overwhelm the world.</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ျမန္မာ့အားကစား ကမၻာကို လႊမ္းရမည္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ျမန္မာ့အားကစား ကမၻာကို လႊမ္းရမည္။</span></p>
 <p class='hide-this'>Myanmar sports will overwhelm the world!</p>
 

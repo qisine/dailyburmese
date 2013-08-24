@@ -8,19 +8,19 @@ category: zawgyi
 
 <p><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔</span> with foreigners</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္</span>-</p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္</span>-</p>
 <p class='hide-this'>work with foreigners</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ ၈ ေယာက္ေလာက္က</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ ၈ ေယာက္ေလာက္က</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten, about eight</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ ၈ ေယာက္ေလာက္က သူတို႔မွ သိတယ္၊ သူတို႔မွ တတ္တယ္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ ၈ ေယာက္ေလာက္က သူတို႔မွ သိတယ္၊ သူတို႔မွ တတ္တယ္။</span></p>
 <p class='hide-this'>I observe when working with foreigners [that] out of ten, about eight [think] only they know</p>
 
-<p class='hide-trigger'><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ ၈ ေယာက္ေလာက္က သူတို႔မွ သိတယ္၊ သူတို႔မွ တတ္တယ္။</span></p>
+<p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ႏိုင္ငံျခားသားေတြနဲ႔ အလုပ္လုပ္တဲ့အခါမွာ ၁၀ ေယာက္မွာ ၈ ေယာက္ေလာက္က သူတို႔မွ သိတယ္၊ သူတို႔မွ တတ္တယ္။</span></p>
 <p class='hide-this'>Eight out of ten foreigners think only they know, only they can do [the work].</p>
 
 <p>From a complaint by a long-time NGO worker.</p>
