@@ -2,6 +2,7 @@
 layout: default
 title: So Unnecessary
 category: unicode
+keywords: unnecessary, sleep
 ---
 
 <p>It is unnecessary. <span class='mm3'>မလိုဘူး။</span></p>

@@ -2,7 +2,7 @@
 layout: default
 title: Easing Back In
 category: unicode
-tags: sports
+keywords: get it, overwhelm
 ---
 
 <p>Easing back into Daily Burmese, let’s look at some red-and-white sentences. The word for a slogan or motto is <span class='mm3'>ဆောင်ပုဒ်။</span>. You have come across the key verb in this one about a year ago, when there was a flood of Daily Burmeses about high water: <span class='mm3'>ရေလွှမ်းမိုး</span> – is one of the words you can use when an area is under water. Here it is being used in a less concrete sense.</p>

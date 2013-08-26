@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="post index">
+  {% assign idx = site.posts | index_by_first_letter %}
+  {% for i in idx %}
+    <h2>{{ i[0] }}</h2>
+    {% for kwds in i[1] %}
+    <a href="{{ kwds[0] }}">{{ kwds[1] }}</a>
+    {% endfor %}
+  {% endfor %}
+</div>

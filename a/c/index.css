@@ -1,0 +1,12 @@
+.index {
+  text-align: center;
+}
+
+.index h2 {
+  margin-top: 2em;
+}
+
+.index h2:first-child {
+  margin-top: inherit;
+}
+

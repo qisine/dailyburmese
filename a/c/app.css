@@ -4,6 +4,7 @@
 @import url('./footer.css');
 @import url('./about.css');
 @import url('./hide.css');
+@import url('./index.css');
 
 body {
   padding: 2em 1em;
