@@ -2,6 +2,7 @@
 layout: default
 title: Coming Out
 category: unicode
+keywords: bandit, leader, catch, capture, reward, rumour
 ---
 
 <p>The vocabulary in this one may be a bit difficult, so let’s start by making sure you know a few words: bandit; leader; catch, capture (also arrest); reward, rumour. Here are the Burmese words (in a different order). Can you match them up?</p>

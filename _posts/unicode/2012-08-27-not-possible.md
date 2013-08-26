@@ -2,6 +2,7 @@
 layout: default
 title: Not Possible
 category: unicode
+keywords: not possible
 ---
 
 <p><span class='mm3'>လုံးဝ</span> is a strong emphasis normally used with negative verbs. It is occasionally used for positive emphasis as well. There is a negative verb in the sentence, but the <span class='mm3'>လုံးဝ</span> does not apply to it.</p>

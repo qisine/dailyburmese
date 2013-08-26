@@ -2,6 +2,7 @@
 layout: default
 title: Not Say Anything
 category: unicode
+keywords: speak, say
 ---
 
 <p class="hide-trigger"><a href="#">+</a><span class="mm3">မပြောဘူး။</span></p>

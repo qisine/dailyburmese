@@ -2,6 +2,7 @@
 layout: default
 title: Work With Foreigners
 category: unicode
+keywords: with foreigners
 ---
 
 <p>This one goes front to back, and while the grammar does not sound too good in English, it is fine in Burmese.</p>

@@ -2,6 +2,7 @@
 layout: default
 title: Essay On Life
 category: unicode
+keywords: job titles
 ---
 
 <p>From an essay on examining one’s life, by <span class='mm3'>ဇေယျ</span>. Fill in the job from the verb. A few of them might be hard to get, so I put the English jobs below to help you with any blanks. If that isn’t enough, you can look even farther down for the jobs in Burmese. Finally you will find the original paragraph at the bottom of the page.</p>

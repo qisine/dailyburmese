@@ -2,6 +2,7 @@
 layout: default
 title: About Reading
 category: unicode
+keywords: read
 ---
 
 <p>[I] read [it]. <span class='mm3'>ဖတ်လိုက်တယ်။</span></p>

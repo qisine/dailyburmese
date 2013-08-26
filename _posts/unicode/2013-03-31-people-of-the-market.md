@@ -2,6 +2,7 @@
 layout: default
 title: People Of The Market
 category: unicode
+keywords: subject, topic, about, market
 ---
 
 <p>First, remember how you say ‘subject, topic’ and also ‘about’? <span class='mm3'>အကြောင်း</span> In the sentence below, <span class='mm3'>ကြောင်း</span> is a particle used to mark something that is being reported, much like <span class='mm3'>လို့</span> is used to mark something said. It is very common in news.</p>

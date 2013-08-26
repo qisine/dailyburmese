@@ -2,6 +2,7 @@
 layout: default
 title: Show The Schedule
 category: unicode
+keywords: show, schedule
 ---
 
 <p>[They] show the schedule. <span class='mm3'>အစီအစဉ်တွေကို ပြတယ်။</span></p>

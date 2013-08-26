@@ -2,6 +2,7 @@
 layout: default
 title: Depressing
 category: unicode
+keywords: depressed
 ---
 
 <p>Hello everyone, I still have repetitive stress injury, and the twisting of the cut and paste is particularly bad for it, but I thought I'd try to put out one of these every once in a while. See how it goes.</p>

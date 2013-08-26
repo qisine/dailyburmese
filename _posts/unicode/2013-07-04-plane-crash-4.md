@@ -2,6 +2,7 @@
 layout: default
 title: Plane Crash 4
 category: unicode
+keywords: fan
 ---
 
 <p class="hide-trigger"><a href="#">+</a><span class="mm3">ခရီးသည် ထိခိုက်မှု မရှိပါဘူး။ ပြေးလမ်းဘေးကို ချော်ထွက်သွားတဲ့အတွက် ခြံစည်းရိုးနဲ့တိုက်မိပြီး လေကာဉ်ပန်ကာတွေပျက်စီးသွားတယ်”ဟု ရန်ကုန်တိုင်းမ် နေ့စဉ် သတင်းစာသို့ ပြောသည်။</span></p>

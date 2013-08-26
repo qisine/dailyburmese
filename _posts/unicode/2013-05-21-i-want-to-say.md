@@ -2,6 +2,7 @@
 layout: default
 title: I Want To Say
 category: unicode
+keywords: I want to say
 ---
 
 <p><span class='mm3'>ပြောချင်တယ်ခင်ဗျာ။</span> I want to say [something].</p>

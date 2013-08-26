@@ -2,6 +2,7 @@
 layout: default
 title: Soon To Be Parents
 category: unicode
+keywords: not speak
 ---
 
 <p class="hide-trigger"><a href="#">+</a><span class="mm3">မပြောဘူး။</span></p>

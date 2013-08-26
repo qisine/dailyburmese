@@ -2,6 +2,7 @@
 layout: default
 title: Similarity
 category: unicode
+keywords: similar
 ---
 
 <p><span class='mm3'>တူနေတယ်။ </span>[It] is similar.</p>

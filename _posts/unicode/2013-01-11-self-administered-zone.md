@@ -2,6 +2,7 @@
 layout: default
 title: Self-Administered Zone
 category: unicode
+keywords: self-administered zones
 ---
 
 <p>Put these in order to get a self-administered zone:</p>

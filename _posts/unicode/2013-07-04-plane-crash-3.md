@@ -2,6 +2,7 @@
 layout: default
 title: Plane Crash 3
 category: unicode
+keywords: pilot
 ---
 
 <p class="hide-trigger"><a href="#">+</a><span class="mm3">လေကြောင်းထိန်းသိမ်းကွပ်ကဲရေးမှ အဆင့်မြင့် အရာရှိ တစ်ဦးက ‘လေယာဉ်မောင်းဦးမောင်မောင်လွင် မောင်းတဲ့ MA60 အမျိုးအစား လေယာဉ်ပါ။ ...’</span></p>
