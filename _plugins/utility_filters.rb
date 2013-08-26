@@ -19,10 +19,10 @@ module UtilityFilters
     idx = Hash.new { |h,k| h[k] = [] }
     posts.select { |p| p.categories.first == "unicode" && p.data["keywords"] }.each do |p|
       p.data["kwd_hash"].each_pair do |kwd, url|
-        idx[kwd[0]] << [url, kwd] unless idx[kwd[0]].find {|e| e[0] == url && e[1] == kwd}
+        idx[kwd[0].downcase] << [url, kwd] unless idx[kwd[0].downcase].find {|e| e[0] == url && e[1] == kwd}
       end
     end
-    idx.to_a.sort_by { |e| e[0] }
+    idx.to_a.sort_by { |e| e[0].downcase }
   end
 end
 
