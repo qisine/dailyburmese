@@ -5,7 +5,8 @@
     /*src: url('f/mm3_20110816.eot');*/
     src: local('myanmar3'), /*url('f/mm3_20110816.eot?#iefix') format('embedded-opentype'),*/
          /*url('f/mm3_20110816.woff') format('woff'),*/
-         url('f/mm3_20110816.ttf') format('truetype') /*,
+         url('f/mm3_20110816.ttf') format('truetype'),
+         url('f/Masterpiece-Uni-Sans.ttf'); /*
          url('f/mm3_20110816.svg#myanmar3regular') format('svg')*/;
     font-weight: normal;
     font-style: normal;
