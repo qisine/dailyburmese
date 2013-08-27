@@ -2,6 +2,7 @@
 layout: default
 title: Not Say Anything
 category: zawgyi
+keywords: speak, say
 ---
 
 <p class="hide-trigger"><a href="#">+</a><span class="zawgyi">မေျပာဘူး။</span></p>

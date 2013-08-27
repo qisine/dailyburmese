@@ -2,6 +2,7 @@
 layout: default
 title: About Reading
 category: zawgyi
+keywords: read
 ---
 
 <p>[I] read [it]. <span class='zawgyi'>ဖတ္လိုက္တယ္။</span></p>

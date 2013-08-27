@@ -2,6 +2,7 @@
 layout: default
 title: Soon To Be Parents
 category: zawgyi
+keywords: not speak
 ---
 
 <p class="hide-trigger"><a href="#">+</a><span class="zawgyi">မေျပာဘူး။</span></p>

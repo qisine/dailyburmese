@@ -2,6 +2,7 @@
 layout: default
 title: So Unnecessary
 category: zawgyi
+keywords: unnecessary, sleep
 ---
 
 <p>It is unnecessary. <span class='zawgyi'>မလိုဘူး။</span></p>

@@ -2,6 +2,7 @@
 layout: default
 title: I Want To Say
 category: zawgyi
+keywords: I want to say
 ---
 
 <p><span class='zawgyi'>ေျပာခ်င္တယ္ခင္ဗ်ာ။</span> I want to say [something].</p>

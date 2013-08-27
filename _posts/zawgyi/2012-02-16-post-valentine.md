@@ -1,0 +1,24 @@
+---
+layout: default
+title: Post-Valentine
+category: zawgyi
+keywords: I do not think so
+---
+
+<p><span class='zawgyi'>မထင္ဘူး။</span>   [I] don’t think so.</p>
+<p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>မထင္ခဲ့ဘူး။</span></p>
+<p class='hide-this'>I did not think so.</p>
+
+<p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>ခြဲရမယ္ မထင္ခဲ့ဘူး။</span></p>
+<p class='hide-this'>I did not think [we] would break up.</p>
+
+<p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>ျမန္ျမန္ ခြဲရမယ္ မထင္ခဲ့ဘူး။</span></p>
+<p class='hide-this'>I did not think we would break up so quickly.</p>
+
+<p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>ဒီလိုႀကီး ျမန္ျမန္ ခြဲရမယ္ မထင္ခဲ့ဘူး။</span></p>
+<p class='hide-this'>I did not think we would break up so quickly like this.</p>
+
+<p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>ခ်စ္ကိုကိုေရ ဒီလိုႀကီး ျမန္ျမန္ ခြဲရမယ္ မထင္ခဲ့ဘူး။</span></p>
+<p class='hide-this'>Chit Ko Ko, I did not think we would break up so quickly like this.</p>
+
+<p>Note the use of <span class='zawgyi'>ႀကီး</span> here. Often adding <span class='mm3'>ႀကီး</span> to something is a mark of respect for something great, grand, etc: <span class='mm3'>ဆရာႀကီး၊ နာမည္ႀကီး။</span> But it can also give something a negative tinge, the same way <span class='mm3'>ေလး</span> can give a positive one. It is always <span class='mm3'>ခ်စ္စရာေလး</span> for example. Listen for <span class='mm3'>ႀကီး</span> and <span class='mm3'>ေလး</span> used in this way. You might hear N<span class='mm3'>ႀကီး</span> or N+descriptive verb+<span class='mm3'>ႀကီး</span> like <span class='mm3'>ဒီအခ်ိန္ႀကီး</span> this (inappropriate) time; <span class='mm3'>အနံ႔ဆိုးႀကီး</span> stench</p>

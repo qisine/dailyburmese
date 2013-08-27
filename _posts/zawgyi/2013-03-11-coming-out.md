@@ -2,10 +2,11 @@
 layout: default
 title: Coming Out
 category: zawgyi
+keywords: bandit, leader, catch, capture, reward, rumour
 ---
 
 <p>The vocabulary in this one may be a bit difficult, so let’s start by making sure you know a few words: bandit; leader; catch, capture (also arrest); reward, rumour. Here are the Burmese words (in a different order). Can you match them up?</p>
-<p><span class='zawgyi'>ဖမ္း ဆုေငြ ေခါင္းေဆာင္ ေကာလာဟလ ဓါးျပ</span>/<span class='zawgyi'>ဒမ်</span>/</p>
+<p><span class='zawgyi'>ဖမ္း ဆုေငြ ေခါင္းေဆာင္ ေကာလာဟလ ဓါးျပ</span>/<span class='mm3'>ဒမ်</span>/</p>
 
 <p>[It]’s come out. <span class='zawgyi'>ထြက္ေနတယ္။</span></p>
 
@@ -24,7 +25,7 @@ category: zawgyi
 <p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
 <p class='hide-this'>There’s a rumour that the one who can capture [him] will be get a reward in the millions.</p>
 
-<p><span class='zawgyi'>ဓါးျပ ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။ </span>/<span class='zawgyi'>ဒမ်</span>/</p>
+<p><span class='zawgyi'>ဓါးျပ ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။ </span>/<span class='mm3'>ဒမ်</span>/</p>
 <p class='hide-this'>There’s a rumour that whoever captures the bandit will get a reward in the millions.</p>
 
 <p class='hide-trigger'><a href="#">+</a><span class='zawgyi'>ဓါးျပေခါင္းေဆာင္ ဖမ္းႏိုင္သူကို ဆုေငြ သန္းနဲ႔ခ်ီၿပီးေပးမယ္လို႔ ေကာလာဟလ ထြက္ေနတယ္။</span></p>
