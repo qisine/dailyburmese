@@ -1,6 +1,6 @@
 relative_permalinks: true
 
-paginate: 5
+paginate: 10
 paginate_path: "p:num"
 
 host:     0.0.0.0

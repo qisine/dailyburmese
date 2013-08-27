@@ -12,7 +12,7 @@ TXT
 
 P = "<p>%s</p>"
 FONT = "<span class='mm3'>%s</span>"
-TRIGGER = "<p class='hide-trigger'>%s</p>"
+TRIGGER = "<p class='hide-trigger'><a href='#'>+</a>%s</p>"
 HIDE = "<p class='hide-this'>%s</p>\n"
 
 def fmt(txt, format=P)
