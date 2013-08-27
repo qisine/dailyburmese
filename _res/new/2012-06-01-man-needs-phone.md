@@ -1,0 +1,48 @@
+---
+layout: default
+title: Man Needs Phone
+category: unicode
+keywords: mobile phone, adult, should have
+---
+
+<p>As I have been remiss lately, today there is one sentence with a lot to look at. It was lifted from a newspaper editorial, and is in somewhat formal style.</p>
+<p><span class='mm3'>သင့်ပါသည်။</span> [That’s the way it] should be.</p>
+
+<p class="hide-trigger"><span class='mm3'>ထားသင့်ပါသည်။</span></p>
+<p class='hide-this'>[It] should be left.</p>
+
+<p class="hide-trigger"><span class='mm3'>ရှိထားသင့်ပါသည်။</span></p>
+<p class='hide-this'>[I] should have [something].</p>
+
+<p class="hide-trigger"><span class='mm3'>ဖုန်းတစ်လုံး ရှိထားသင့်ပါသည်။</span></p>
+<p class='hide-this'>I should have a phone. (count phones with <span class='mm3'>လုံး</span>)</p>
+
+<p class="hide-trigger"><span class='mm3'>မိုဘိုင်းလ်ဖုန်းတစ်လုံး ရှိထားသင့်ပါသည်။</span></p>
+<p class='hide-this'>I should have a mobile phone.</p>
+
+<p class="hide-trigger"><span class='mm3'>လူတစ်ယောက် မိုဘိုင်းလ်ဖုန်းတစ်လုံးတော့ ရှိထားသင့်ပါသည်။</span></p>
+<p class='hide-this'>A person should have a mobile phone. (add a <span class='mm3'>တော့</span> after the <span class='mm3'>ဖုန်းတစ်လုံး</span>)</p>
+
+<p class="hide-trigger"><span class='mm3'>အရွယ်ရောက်သူ လူတစ်ယောက် မိုဘိုင်းလ်ဖုန်းတစ်လုံးတော့ ရှိထားသင့်ပါသည်။</span></p>
+<p class='hide-this'>An adult (= a person who has come of age) should have a mobile phone.</p>
+
+<p>Now that is the learner-friendly, particle-impoverished version that is understandable, clear, etc, but missing some flavour. Here is the sentence as it appeared:</p>
+<p><span class='mm3'>အရွယ်ရောက်သူ လူတစ်ဦးတစ်ယောက်အတွက် မိုဘိုင်းလ်ဖုန်းတစ်လုံးလောက်တော့ ရှိထားသင့်ပါသည်။</span></p>
+
+<p>Let’s look at what is missing from the simpler sentence, starting from the left.</p>
+
+<p>– <span class='mm3'>တော့</span> is rapidly becoming my favourite particle (replacing <span class='mm3'>ရော</span>). Here, I just feel it gives a satisfying firmness to the statement, implying that the writer is prepared to defend it. In that way, it is a bit like ‘actually’ in English, though that word does not fit in this sentence, either.</p>
+<p>– <span class='mm3'>လောက်</span> which you are undoubtedly familiar with as ‘approximately, around, about’ here just marks that a number has come up. You can also hear people ordering <span class='mm3'>ထမင်းတစ်ပွဲလောက်</span> and I am sure they know just how many bowls of rice they will get.</p>
+<p>– Notice that no grammatical markers of subject / object are necessary.</p>
+<p>– <span class='mm3'>အတွက်</span>  you probably know well as ‘for’ </p>
+<p><span class='mm3'>ဖုန်းတစ်လုံးလောက် ချစ်သူအတွက် ဝယ်ထားတယ်။</span> [I] bought a phone for my girl/boyfriend.</p>
+<p><span class='mm3'>ဒီစာအုပ် ကိုအောင်အတွက် သိမ်းထားတယ်။တော့</span>          This book is being kept for Ko Aung.</p>
+<p>In today’s sentence <span class='mm3'>အတွက်</span> doesn’t get translated into English, but you can see how without literally meaning ‘for’ there is a sense of ‘for every person’ which doesn’t happen to work in English in this sentence the way it is cast.</p>
+<p>– Most people I know call a mobile phone a <span class='mm3'>ဟန်းဖုန်း</span> ‘hand phone’, but this <span class='mm3'>မိုဘိုင်းလ်</span> is not uncommon, though the silent <span class='mm3'>လ်</span> to represent the English L is unusual. They also recommend you carry a notebook and a <span class='mm3'>ဘောလ်ပင်</span> to note phone numbers with, so maybe they just have a thing for <span class='mm3'>လ်</span></p>
+<p>Using both <span class='mm3'>တစ်ဦး</span> and <span class='mm3'>တစ်ယောက်</span> makes the <span class='mm3'>လူ</span> general — it is not one adult who needs a phone, but people.</p>
+<p>From an editorial in the New Light of Myanmar, headline <span class='mm3'>မိုဘိုင်းလ်ဖုန်းတစ်လုံး ဘယ်လိုသုံးမလဲ မြန်မာ့အလင်း ၂၀၁၂ မေ ၃၁</span> http://www.myanmar.com/newspaper/myanmarahlin/May31.pdf page 2</p>
+<p>If someone were really saying this in English, it would be a lot shorter, of course. Something like:</p>
+<p>Everyone should have a mobile phone!</p>
+<p>All adults should have mobile phones!</p>
+<p>Grownups have mobiles.</p>
+<p>One man, one phone.</p>
