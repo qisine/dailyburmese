@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
+  <url> 
+    <loc>http://dailyburmese.burmeseteacher.com</loc> 
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dailyburmese.burmeseteacher.com/keywords</loc>
+  </url>
+  <url>
+    <loc>http://dailyburmese.burmeseteacher.com/archives/unicode</loc>
+  </url>
+  <url>
+    <loc>http://dailyburmese.burmeseteacher.com/archives/zawgyi</loc>
+  </url>
+  <url>
+    <loc>http://dailyburmese.burmeseteacher.com/about</loc>
+  </url>
+</urlset>
