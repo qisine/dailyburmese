@@ -13,7 +13,7 @@ keywords: could see
 <p class="hide-trigger"><a href='#'>+</a><span class='mm3'>ကြည့်တော့ လှေတစ်စင်း တွေ့ရတယ်။</span></p>
 <p class='hide-this'>I looked, and I could see a boat.</p>
 
-<p class="hide-trigger"><a href='#'>+</a><span class='mm3'>လှမ်းကြည့်တော့ တွေ့ရတယ်။</span></p>
+<p class="hide-trigger"><a href='#'>+</a><span class='mm3'>လှမ်းကြည့်တော့ လှေတစ်စင်း တွေ့ရတယ်။</span></p>
 <p class='hide-this'>I looked over, and I caught sight of a boat. (add a word before the V to show that you are looking from a distance)</p>
 
 <p class="hide-trigger"><a href='#'>+</a><span class='mm3'>မြစ်တစ်ဘက်ကမ်းမှာ လှမ်းကြည့်တော့ လှေတစ်စင်း တွေ့ရတယ်။</span></p>

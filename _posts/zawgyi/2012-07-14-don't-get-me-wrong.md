@@ -24,5 +24,5 @@ keywords: don't get me wrong, as many as you can
 <p class='hide-this'>I don’t mean that there’s anything wrong with getting a degree. The more the better!<br>
 Don’t get me wrong — I’m not implying that getting a degree isn’t a good thing. By all means, get as many as possible!</p>
 
-<p>You may often hear this after generalisations: [group]<span class='zawgyi'>တိုင္း မဆိုလိုပါ</span>(<span class='mm3'>ဘူး</span>). </p>
+<p>You may often hear this after generalisations: [group]<span class='zawgyi'>တိုင္း မဆိုလိုပါ</span>(<span class='zawgyi'>ဘူး</span>). </p>
 <p><span class='zawgyi'>ေယာက္်ားတိုင္း မဆိုလိုပါ။</span> Not all men. Not every man. That’s not to implicate all men.</p>

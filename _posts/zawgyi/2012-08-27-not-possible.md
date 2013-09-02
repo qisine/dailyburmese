@@ -5,7 +5,7 @@ category: zawgyi
 keywords: not possible
 ---
 
-<p><span class='zawgyi'>လုံးဝ</span> is a strong emphasis normally used with negative verbs. It is occasionally used for positive emphasis as well. There is a negative verb in the sentence, but the <span class='mm3'>လုံးဝ</span> does not apply to it.</p>
+<p><span class='zawgyi'>လုံးဝ</span> is a strong emphasis normally used with negative verbs. It is occasionally used for positive emphasis as well. There is a negative verb in the sentence, but the <span class='zawgyi'>လုံးဝ</span> does not apply to it.</p>
 
 <p>That is not possible.<span class='zawgyi'> မရပါဘူး။</span></p>
 

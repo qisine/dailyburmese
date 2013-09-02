@@ -24,7 +24,7 @@ keywords: money, talk, loyalty, care about
 <p class="hide-trigger"><a href='#'>+</a>Put them together — It’s not about the money, I’m talking about loyalty/truth.</p>
 <p class="hide-this"><span class='zawgyi'>ေငြကိစၥကို ေျပာေနတာ မဟုတ္ဘူး။ သစၥာကိစၥကိုပဲ ေျပာေနတာ။</span></p>
 
-<p>To be more emphatic about separating issues, add <span class='zawgyi'>သက္သက္</span> (only, separately) and <span class='mm3'>ခြဲ</span> (be separate) like this: </p>
+<p>To be more emphatic about separating issues, add <span class='zawgyi'>သက္သက္</span> (only, separately) and <span class='zawgyi'>ခြဲ</span> (be separate) like this: </p>
 <p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>ေငြကိစၥကို ေျပာေနတာ မဟုတ္ဘူး။ သစၥာကိစၥကို သက္သက္ခြဲပဲ ေျပာေနတာ။</span></p>
 <p class='hide-this'>I don’t care about the money — it’s about (the issue of) loyalty.</p>
 

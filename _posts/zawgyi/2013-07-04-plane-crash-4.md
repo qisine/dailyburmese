@@ -9,4 +9,4 @@ keywords: fan
 
 <p class="hide-this">No passengers were affected. As the plain went disorder out the Runner Trek hit to hedge and damaged its fans.</p>
 
-<p>I hope you all know <span class="zawgyi">ပန္ကာ</span> as a fan. It is quite reasonably used for propellers of planes and boats as well. I have also heard it used for an analogue watch, though I don’t know how standard that is. <span class="mm3">ဒါဟာ ပန္ကာနာရီ၊ ဒီဂ်ီတယ္နာရီ မဟုတ္ဘူး။</span></p>
+<p>I hope you all know <span class="zawgyi">ပန္ကာ</span> as a fan. It is quite reasonably used for propellers of planes and boats as well. I have also heard it used for an analogue watch, though I don’t know how standard that is. <span class="zawgyi">ဒါဟာ ပန္ကာနာရီ၊ ဒီဂ်ီတယ္နာရီ မဟုတ္ဘူး။</span></p>

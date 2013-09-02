@@ -23,4 +23,4 @@ keywords: nightmare, long time
 <p class="hide-trigger"><a href='#'>+</a><span class='zawgyi'>ၾကာပါၿပီ။</span></p>
 <p class='hide-this'>It’s been a long time.</p>
 
-<p>Many people pronounce <span class='zawgyi'>အိပ္မက္</span> /<span class='mm3'>အိမ္မက္</span>/ and sometimes you may see it written that way as well.</p>
+<p>Many people pronounce <span class='zawgyi'>အိပ္မက္</span> /<span class='zawgyi'>အိမ္မက္</span>/ and sometimes you may see it written that way as well.</p>

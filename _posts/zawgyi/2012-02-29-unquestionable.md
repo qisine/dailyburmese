@@ -21,9 +21,9 @@ keywords: prosperous, indisputable
 <p>Now let’s make sure you have the ‘indisputable’ part in place.</p>
 <p>It is a point, right? Let’s be emphatic: <span class='zawgyi'>အခ်က္ပါပဲ။</span></p>
 <p>Dispute, question, deny, contest, etc? <span class='zawgyi'>ျငင္း</span>–</p>
-<p>Can you <span class='zawgyi'>ျငင္း</span> it? No. <span class='mm3'>ျငင္းလို႔ မရ</span></p>
+<p>Can you <span class='zawgyi'>ျငင္း</span> it? No. <span class='zawgyi'>ျငင္းလို႔ မရ</span></p>
 <p>Now you have three parts:</p>
-<p><span class='zawgyi'>ဒီႏွစ္ထဲမွာ ဆက္ၿပီး တိုးတက္ႀကီးပြားမယ္</span> + <span class='mm3'>ျငင္းလို႔ မရ</span> + <span class='mm3'>အခ်က္ပါပဲ။</span></p>
+<p><span class='zawgyi'>ဒီႏွစ္ထဲမွာ ဆက္ၿပီး တိုးတက္ႀကီးပြားမယ္</span> + <span class='zawgyi'>ျငင္းလို႔ မရ</span> + <span class='zawgyi'>အခ်က္ပါပဲ။</span></p>
 <p>You still need particles in place of those plusses:</p>
 <p class="hide-trigger"><a href='#'>+</a>There will be further improvement and prosperity this year, unquestionably.</p>
 <p class='hide-this'><span class='zawgyi'>ဒီႏွစ္ထဲမွာ ဆက္ၿပီး တိုးတက္ႀကီးပြားမယ္ဆိုတာ ျငင္းလို႔ မရတဲ့ အခ်က္ပါပဲ။</span></p>
